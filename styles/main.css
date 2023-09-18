@@ -119,6 +119,7 @@ body {
     padding: 15px;
     color: whitesmoke;
     max-width: 20rem;
+    word-wrap:break-word;
 }
 
 .user-message {
